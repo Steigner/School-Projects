@@ -9,11 +9,11 @@ Some projects also publish a semester report or presentation written in Czech. E
 * 9GRA - Knight's Tour - Warnsdorff's Algorithm
 * MPC-MID - Identification Nonlinear System
 * VA1 - Simulating the temperature control of Home Smokehouse by Simulink
-* VAI - Simple Translation Path Planning via RRT + A*
+* VAI - Translation Path Planning via RRT + A*
 * VBC - Bio-inspired Computing algos
-* VOB - Simple Inverse and Forward Kinematics 2DOF SCARA manipulator
+* VOB - Inverse and Forward Kinematics 2DOF SCARA manipulator
 * VRM - ABB RobotStudio Pick&Place, Visual Components Team Project
-* VSC - Simple ANN Classifier, Adaptive ANN Modeling
+* VSC - ANN Classifier, Adaptive ANN Modeling
 * VSG - 4-BandStop Filter: Sample from TIMIT dataset
 * VZI - A simple application of Dijkstra's algorithm for finding "air route"
 
