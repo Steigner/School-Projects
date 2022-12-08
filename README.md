@@ -16,3 +16,11 @@ Some projects also publish a semester report or presentation written in Czech. E
 * VSC - Simple ANN Classifier, Adaptive ANN Modeling
 * VSG - 4-BandStop Filter: Sample from TIMIT dataset
 * VZI - A simple application of Dijkstra's algorithm for finding "air route"
+
+---
+
+:red_circle: Brno University of Technology,
+
+:large_blue_circle: Faculty of Mechanical Engineering,
+
+:computer: Institute of Automation and Computer Science
