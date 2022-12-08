@@ -1,0 +1,246 @@
+{
+  "Prague-Airport": {
+    "lat": "50.075539",
+    "lon": "14.437800"
+  },
+  "Paris-Airport": {
+    "lat": "48.856613",
+    "lon": "2.352222"
+  },
+  "Oslo-Airport": {
+    "lat": "59.913868",
+    "lon": "10.752245"
+  },
+  "Lisabon-Airport": {
+    "lat": "38.707008",
+    "lon": "-9.135640"
+  },
+  "Brno-Airport": {
+    "lat": "49.1922443",
+    "lon": "16.6113382"
+  },
+  "Ostrava-Airport": {
+    "lat": "49.820923",
+    "lon": "18.262524"
+  },
+  "Warsaw-Airport": {
+    "lat": "52.229675",
+    "lon": "21.012230"
+  },
+  "Frankfurt-Airport": {
+    "lat": "50.110924",
+    "lon": "8.682127"
+  },
+  "Copenhagen-Airport": {
+    "lat": "55.676098",
+    "lon": "12.568337"
+  },
+  "Amsterdam-Airport": {
+    "lat": "52.370216",
+    "lon": "4.895168"
+  },
+  "Milan-Airport": {
+    "lat": "45.464203",
+    "lon": "9.189982"
+  },
+  "London-Airport": {
+    "lat": "51.5073219",
+    "lon": "-0.1276474"
+  },
+  "Rome-Airport": {
+    "lat": "41.8933203",
+    "lon": "12.4829321"
+  },
+  "Kiev-Airport": {
+    "lat": "50.4500336",
+    "lon": "30.5241361"
+  },
+  "Sofia-Airport": {
+    "lat": "42.6978634",
+    "lon": "23.3221789"
+  },
+  "Tenerife-Airport": {
+    "lat": "28.217",
+    "lon": "-16.589"
+  },
+  "Zeneva-Airport": {
+    "lat": "46.2017559",
+    "lon": "6.1466014"
+  },
+  "Curych-Airport": {
+    "lat": "47.3744489",
+    "lon": "8.5410422"
+  },
+  "Edinburg-Airport": {
+    "lat": "55.9533456",
+    "lon": "-3.1883749"
+  },
+  "Dublin-Airport": {
+    "lat": "53.3497645",
+    "lon": "-6.2602732"
+  },
+  "Instanbul-Airport": {
+    "lat": "41.0096334",
+    "lon": "28.9651646"
+  },
+  "Tbilisi-Airport": {
+    "lat": "41.6934591",
+    "lon": "44.8014495"
+  },
+  "Krakow-Airport": {
+    "lat": "50.0619474",
+    "lon": "19.9368564"
+  },
+  "Jerusalem-Airport": {
+    "lat": "31.7788242",
+    "lon": "35.2257626"
+  },
+  "Berlin-Airport": {
+    "lat": "52.5170365",
+    "lon": "13.3888599"
+  },
+  "Mnichov-Airport": {
+    "lat": "48.1371079",
+    "lon": "11.5753822"
+  },
+  "Stockholm-Airport": {
+    "lat": "59.3251172",
+    "lon": "18.0710935"
+  },
+  "Moscow-Airport": {
+    "lat": "55.7504461",
+    "lon": "37.6174943"
+  },
+  "Vilnius-Airport": {
+    "lat": "54.6870458",
+    "lon": "25.2829111"
+  },
+  "Dubai-Airport": {
+    "lat": "25.2047397",
+    "lon": "55.2707065"
+  },
+  "Atheny-Airport": {
+    "lat": "37.9839412",
+    "lon": "23.7283052"
+  },
+  "Wien-Airport": {
+    "lat": "48.2083537",
+    "lon": "16.3725042"
+  },
+  "Petrohrad-Airport": {
+    "lat": "59.938732",
+    "lon": "30.316229"
+  },
+  "Bordeux-Airport": {
+    "lat": "50.0493074",
+    "lon": "1.9009358"
+  },
+  "New_York-Airport": {
+    "lat": "40.7127281",
+    "lon": "-74.0060152"
+  },
+  "Marakes-Airport": {
+    "lat": "31.6258257",
+    "lon": "-7.9891608"
+  },
+  "Dakar-Airport": {
+    "lat": "14.693425",
+    "lon": "-17.447938"
+  },
+  "Johannesburg-Airport": {
+    "lat": "-26.205",
+    "lon": "28.049722"
+  },
+  "Addis_Abeba-Airport": {
+    "lat": "9.02497",
+    "lon": "38.74689"
+  },
+  "Bombaj-Airport": {
+    "lat": "19.0759899",
+    "lon": "72.8773928"
+  },
+  "Montreal-Airport": {
+    "lat": "45.4972159",
+    "lon": "-73.6103642"
+  },
+  "Toronto-Airport": {
+    "lat": "43.6534817",
+    "lon": "-79.3839347"
+  },
+  "Atlanta-Airport": {
+    "lat": "33.7490987",
+    "lon": "-84.3901849"
+  },
+  "Miami-Airport": {
+    "lat": "25.7741728",
+    "lon": "-80.19362"
+  },
+  "Rio_de_Janero-Airport": {
+    "lat": "-22.9110137",
+    "lon": "-43.2093727"
+  },
+  "Mexico_city-Airport": {
+    "lat": "19.4326296",
+    "lon": "-99.1331785"
+  },
+  "San_Jose-Airport": {
+    "lat": "29.6845531",
+    "lon": "-107.9564684"
+  },
+  "Riga-Airport": {
+    "lat": "56.9493977",
+    "lon": "24.1051846"
+  },
+  "Madrid-Airport": {
+    "lat": "40.4167047",
+    "lon": "-3.7035825"
+  },
+  "Reykjavik-Airport": {
+    "lat": "64.145981",
+    "lon": "-21.9422367"
+  },
+  "Helsinki-Airport": {
+    "lat": "60.1674881",
+    "lon": "24.9427473"
+  },
+  "Liverpool-Airport": {
+    "lat": "53.407154",
+    "lon": "-2.991665"
+  },
+  "Boston-Airport": {
+    "lat": "42.3602534",
+    "lon": "-71.0582912"
+  },
+  "Dallas-Airport": {
+    "lat": "32.7762719",
+    "lon": "-96.7968559"
+  },
+  "Cape_Town-Airport": {
+    "lat": "-33.928992",
+    "lon": "18.417396"
+  },
+  "Vladivostok-Airport": {
+    "lat": "43.1150678",
+    "lon": "131.8855768"
+  },
+  "Barcelona-Airport": {
+    "lat": "41.3828939",
+    "lon": "2.1774322"
+  },
+  "Seattle-Airport": {
+    "lat": "47.6038321",
+    "lon": "-122.3300624"
+  },
+  "Malmo-Airport": {
+    "lat": "55.6052931",
+    "lon": "13.0001566"
+  },
+  "Porto-Airport": {
+    "lat": "41.1494512",
+    "lon": "-8.6107884"
+  },
+  "Tampere-Airport": {
+    "lat": "61.4980214",
+    "lon": "23.7603118"
+  }
+}

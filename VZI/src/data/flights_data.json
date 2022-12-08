@@ -1,0 +1,617 @@
+{
+  "Prague-Airport": {
+    "Paris-Airport": 100,
+    "Copenhagen-Airport": 80,
+    "Frankfurt-Airport": 60,
+    "Amsterdam-Airport": 85,
+    "Milan-Airport": 85,
+    "London-Airport": 110,
+    "Rome-Airport": 110,
+    "Kiev-Airport": 120,
+    "Sofia-Airport": 110
+  },
+  "Paris-Airport": {
+    "Prague-Airport": 100,
+    "London-Airport": 70,
+    "Lisabon-Airport": 150,
+    "Zeneva-Airport": 65,
+    "Curych-Airport": 75,
+    "Edinburg-Airport": 115,
+    "Dublin-Airport": 100,
+    "Instanbul-Airport": 210,
+    "Warsaw-Airport": 145,
+    "Copenhagen-Airport": 120,
+    "Amsterdam-Airport": 80,
+    "Frankfurt-Airport": 75,
+    "Milan-Airport": 90,
+    "Krakow-Airport": 130,
+    "Berlin-Airport": 105,
+    "Mnichov-Airport": 85,
+    "Stockholm-Airport": 160,
+    "Oslo-Airport": 140,
+    "Sofia-Airport": 165,
+    "Jerusalem-Airport": 275,
+    "Tbilisi-Airport": 270,
+    "Moscow-Airport": 235,
+    "Vilnius-Airport": 160,
+    "Dubai-Airport": 410,
+    "Atheny-Airport": 190,
+    "Wien-Airport": 115,
+    "Petrohrad-Airport": 185,
+    "Bordeux-Airport": 80,
+    "Marakes-Airport": 200,
+    "Dakar-Airport": 355,
+    "Johannesburg-Airport": 645,
+    "Addis_Abeba-Airport": 425,
+    "Bombaj-Airport": 535,
+    "New_York-Airport": 500,
+    "Montreal-Airport": 460,
+    "Toronto-Airport": 505,
+    "Atlanta-Airport": 600,
+    "Miami-Airport": 630,
+    "Rio_de_Janero-Airport": 695,
+    "Mexico_city-Airport": 755,
+    "San_Jose-Airport": 710
+  },
+  "Brno-Airport": {
+    "London-Airport": 130,
+    "Milan-Airport": 81
+  },
+  "Ostrava-Airport": {
+    "Warsaw-Airport": 65
+  },
+  "Warsaw-Airport": {
+    "Krakow-Airport": 55,
+    "Frankfurt-Airport": 105,
+    "Wien-Airport": 85,
+    "Berlin-Airport": 85,
+    "Mnichov-Airport": 85,
+    "Milan-Airport": 125,
+    "Zeneva-Airport": 140,
+    "Amsterdam-Airport": 160,
+    "Kiev-Airport": 90,
+    "Copenhagen-Airport": 95,
+    "Paris-Airport": 145,
+    "Rome-Airport": 145,
+    "Madrid-Airport": 235,
+    "Oslo-Airport": 115,
+    "Riga-Airport": 90,
+    "Stockholm-Airport": 100,
+    "Reykjavik-Airport": 260,
+    "Instanbul-Airport": 160,
+    "Lisabon-Airport": 250,
+    "Atheny-Airport": 150,
+    "Jerusalem-Airport": 230,
+    "Dubai-Airport": 340,
+    "Moscow-Airport": 135,
+    "Helsinki-Airport": 145,
+    "New_York-Airport": 585,
+    "Liverpool-Airport": 170,
+    "Ostrava-Airport": 65
+  },
+  "Copenhagen-Airport": {
+    "Paris-Airport": 120,
+    "Frankfurt-Airport": 85,
+    "Amsterdam-Airport": 85,
+    "Milan-Airport": 125,
+    "London-Airport": 120,
+    "Rome-Airport": 150,
+    "Kiev-Airport": 135,
+    "Sofia-Airport": 155,
+    "Krakow-Airport": 95,
+    "Warsaw-Airport": 85,
+    "Prague-Airport": 80,
+    "Wien-Airport": 105,
+    "Zeneva-Airport": 120,
+    "Curych-Airport": 120,
+    "Mnichov-Airport": 100,
+    "Berlin-Airport": 65,
+    "Lisabon-Airport": 220,
+    "Edinburg-Airport": 115,
+    "Dublin-Airport": 140,
+    "Instanbul-Airport": 190,
+    "Vilnius-Airport": 90,
+    "Riga-Airport": 85,
+    "Stockholm-Airport": 70,
+    "Oslo-Airport": 70,
+    "Helsinki-Airport": 140,
+    "Dubai-Airport": 385,
+    "Atheny-Airport": 190,
+    "New_York-Airport": 525,
+    "Liverpool-Airport": 110
+  },
+  "Frankfurt-Airport": {
+    "Paris-Airport": 75,
+    "Copenhagen-Airport": 85,
+    "Prague-Airport": 60,
+    "Amsterdam-Airport": 75,
+    "Milan-Airport": 80,
+    "London-Airport": 95,
+    "Rome-Airport": 105,
+    "Kiev-Airport": 145,
+    "Sofia-Airport": 130,
+    "Warsaw-Airport": 105,
+    "Oslo-Airport": 100,
+    "Stockholm-Airport": 125,
+    "Helsinki-Airport": 145,
+    "Riga-Airport": 130,
+    "Vilnius-Airport": 125,
+    "Moscow-Airport": 190,
+    "Jerusalem-Airport": 245,
+    "Dubai-Airport": 390,
+    "Dublin-Airport": 125,
+    "Lisabon-Airport": 185,
+    "Instanbul-Airport": 180,
+    "Krakow-Airport": 90,
+    "Reykjavik-Airport": 220,
+    "New_York-Airport": 525,
+    "Toronto-Airport": 520,
+    "Montreal-Airport": 480,
+    "Boston-Airport": 520,
+    "Mexico_city-Airport": 745,
+    "Miami-Airport": 660,
+    "Atlanta-Airport": 625
+  },
+  "Amsterdam-Airport": {
+    "Paris-Airport": 80,
+    "Copenhagen-Airport": 85,
+    "Frankfurt-Airport": 75,
+    "Prague-Airport": 85,
+    "Milan-Airport": 95,
+    "London-Airport": 90,
+    "Rome-Airport": 130,
+    "Kiev-Airport": 160,
+    "Sofia-Airport": 160,
+    "Warsaw-Airport": 115,
+    "Bordeux-Airport": 100,
+    "Zeneva-Airport": 90,
+    "Curych-Airport": 85,
+    "Berlin-Airport": 75,
+    "Mnichov-Airport": 80,
+    "Oslo-Airport": 110,
+    "Stockholm-Airport": 120,
+    "Helsinki-Airport": 140,
+    "Riga-Airport": 130,
+    "Moscow-Airport": 220,
+    "Lisabon-Airport": 180,
+    "Dublin-Airport": 105,
+    "Edinburg-Airport": 90,
+    "Liverpool-Airport": 85,
+    "Krakow-Airport": 110,
+    "Instanbul-Airport": 200,
+    "Dubai-Airport": 395,
+    "Reykjavik-Airport": 200,
+    "Marakes-Airport": 225,
+    "Atheny-Airport": 190,
+    "Rio_de_Janero-Airport": 715,
+    "Cape_Town-Airport": 675,
+    "Mexico_city-Airport": 715,
+    "San_Jose-Airport": 715,
+    "Atlanta-Airport": 580,
+    "New_York-Airport": 495,
+    "Toronto-Airport": 490,
+    "Montreal-Airport": 465
+  },
+  "Milan-Airport": {
+    "Paris-Airport": 90,
+    "Copenhagen-Airport": 125,
+    "Frankfurt-Airport": 80,
+    "Amsterdam-Airport": 95,
+    "Prague-Airport": 85,
+    "London-Airport": 125,
+    "Rome-Airport": 70,
+    "Kiev-Airport": 165,
+    "Sofia-Airport": 115,
+    "Warsaw-Airport": 125,
+    "Bordeux-Airport": 100,
+    "Mnichov-Airport": 70,
+    "Wien-Airport": 90,
+    "Krakow-Airport": 105,
+    "Berlin-Airport": 105,
+    "Edinburg-Airport": 160,
+    "Dublin-Airport": 165,
+    "Oslo-Airport": 150,
+    "Stockholm-Airport": 155,
+    "Helsinki-Airport": 180,
+    "Riga-Airport": 160,
+    "Moscow-Airport": 225,
+    "Instanbul-Airport": 160,
+    "Dubai-Airport": 365,
+    "Dakar-Airport": 340,
+    "New_York-Airport": 569,
+    "Brno-Airport": 81
+  },
+  "London-Airport": {
+    "Paris-Airport": 70,
+    "Copenhagen-Airport": 120,
+    "Frankfurt-Airport": 95,
+    "Amsterdam-Airport": 90,
+    "Milan-Airport": 125,
+    "Prague-Airport": 110,
+    "Rome-Airport": 125,
+    "Kiev-Airport": 195,
+    "Sofia-Airport": 180,
+    "Brno-Airport": 130,
+    "Lisabon-Airport": 165,
+    "Dublin-Airport": 85,
+    "Edinburg-Airport": 75,
+    "Reykjavik-Airport": 195,
+    "Oslo-Airport": 125,
+    "Stockholm-Airport": 135,
+    "Helsinki-Airport": 170,
+    "Instanbul-Airport": 220,
+    "Atheny-Airport": 225,
+    "Dubai-Airport": 420,
+    "Moscow-Airport": 245,
+    "Petrohrad-Airport": 190,
+    "Cape_Town-Airport": 705,
+    "New_York-Airport": 475,
+    "Boston-Airport": 470,
+    "Montreal-Airport": 455,
+    "Miami-Airport": 595,
+    "Atlanta-Airport": 595,
+    "Dallas-Airport": 620,
+    "Zeneva-Airport": 100,
+    "Curych-Airport": 100,
+    "Mnichov-Airport": 120,
+    "Berlin-Airport": 110,
+    "Wien-Airport": 125
+  },
+  "Rome-Airport": {
+    "Paris-Airport": 130,
+    "Copenhagen-Airport": 150,
+    "Frankfurt-Airport": 105,
+    "Amsterdam-Airport": 130,
+    "Milan-Airport": 70,
+    "London-Airport": 125,
+    "Prague-Airport": 110,
+    "Warsaw-Airport": 145,
+    "Krakow-Airport": 125,
+    "Atheny-Airport": 120,
+    "Bordeux-Airport": 120,
+    "Wien-Airport": 100,
+    "Dublin-Airport": 200,
+    "Helsinki-Airport": 200,
+    "Lisabon-Airport": 185,
+    "Addis_Abeba-Airport": 390,
+    "New_York-Airport": 590,
+    "Madrid-Airport": 155
+  },
+  "Kiev-Airport": {
+    "Copenhagen-Airport": 135,
+    "Frankfurt-Airport": 145,
+    "Amsterdam-Airport": 160,
+    "Milan-Airport": 165,
+    "London-Airport": 195,
+    "Prague-Airport": 120,
+    "Warsaw-Airport": 90
+  },
+  "Sofia-Airport": {
+    "Paris-Airport": 165,
+    "Copenhagen-Airport": 155,
+    "Frankfurt-Airport": 130,
+    "Amsterdam-Airport": 160,
+    "Milan-Airport": 15,
+    "London-Airport": 180,
+    "Prague-Airport": 110
+  },
+  "Lisabon-Airport": {
+    "Paris-Airport": 150,
+    "Copenhagen-Airport": 220,
+    "Frankfurt-Airport": 185,
+    "Amsterdam-Airport": 180,
+    "Milan-Airport": 85,
+    "London-Airport": 165,
+    "Rome-Airport": 185,
+    "Warsaw-Airport": 250,
+    "Dublin-Airport": 175,
+    "Edinburg-Airport": 180,
+    "Berlin-Airport": 200,
+    "Krakow-Airport": 235,
+    "Stockholm-Airport": 260,
+    "Wien-Airport": 215,
+    "Tenerife-Airport": 150
+  },
+  "Tenerife-Airport": {
+    "Lisabon-Airport": 150
+  },
+  "Zeneva-Airport": {
+    "Paris-Airport": 65,
+    "Copenhagen-Airport": 120,
+    "Amsterdam-Airport": 90,
+    "London-Airport": 100,
+    "Warsaw-Airport": 140,
+    "Berlin-Airport": 105,
+    "Bordeux-Airport": 75
+  },
+  "Curych-Airport": {
+    "Paris-Airport": 75,
+    "Copenhagen-Airport": 120,
+    "Amsterdam-Airport": 85,
+    "London-Airport": 100,
+    "Krakow-Airport": 100,
+    "Stockholm-Airport": 145
+  },
+  "Edinburg-Airport": {
+    "Paris-Airport": 115,
+    "Copenhagen-Airport": 115,
+    "Amsterdam-Airport": 90,
+    "London-Airport": 75,
+    "Milan-Airport": 160,
+    "Lisabon-Airport": 180,
+    "Stockholm-Airport": 145,
+    "Dublin-Airport": 60,
+    "Helsinki-Airport": 160
+  },
+  "Dublin-Airport": {
+    "Paris-Airport": 100,
+    "Copenhagen-Airport": 140,
+    "Amsterdam-Airport": 105,
+    "London-Airport": 85,
+    "Frankfurt-Airport": 125,
+    "Milan-Airport": 165,
+    "Rome-Airport": 200,
+    "Lisabon-Airport": 175,
+    "New_York-Airport": 470,
+    "Edinburg-Airport": 60,
+    "Toronto-Airport": 435,
+    "Tampere-Airport": 232
+  },
+  "Instanbul-Airport": {
+    "Paris-Airport": 210,
+    "Copenhagen-Airport": 190,
+    "Amsterdam-Airport": 200,
+    "London-Airport": 220,
+    "Frankfurt-Airport": 180,
+    "Milan-Airport": 160,
+    "Warsaw-Airport": 160,
+    "Tbilisi-Airport": 130,
+    "Jerusalem-Airport": 120
+  },
+  "Tbilisi-Airport": {
+    "Instanbul-Airport": 130,
+    "Paris-Airport": 210
+  },
+  "Krakow-Airport": {
+    "Paris-Airport": 130,
+    "Copenhagen-Airport": 95,
+    "Amsterdam-Airport": 110,
+    "Rome-Airport": 125,
+    "Frankfurt-Airport": 90,
+    "Milan-Airport": 105,
+    "Warsaw-Airport": 55,
+    "Lisabon-Airport": 235,
+    "Curych-Airport": 100
+  },
+  "Jerusalem-Airport": {
+    "Instanbul-Airport": 120,
+    "Paris-Airport": 275,
+    "Frankfurt-Airport": 230,
+    "Warsaw-Airport": 230
+  },
+  "Berlin-Airport": {
+    "Paris-Airport": 105,
+    "Copenhagen-Airport": 65,
+    "Amsterdam-Airport": 75,
+    "Milan-Airport": 105,
+    "Warsaw-Airport": 85,
+    "Lisabon-Airport": 200,
+    "Zeneva-Airport": 105,
+    "London-Airport": 110
+  },
+  "Mnichov-Airport": {
+    "Paris-Airport": 85,
+    "Copenhagen-Airport": 100,
+    "Amsterdam-Airport": 80,
+    "Milan-Airport": 70,
+    "Warsaw-Airport": 85,
+    "London-Airport": 120
+  },
+  "Stockholm-Airport": {
+    "Paris-Airport": 160,
+    "Copenhagen-Airport": 70,
+    "Frankfurt-Airport": 125,
+    "Amsterdam-Airport": 120,
+    "Milan-Airport": 155,
+    "Warsaw-Airport": 100,
+    "London-Airport": 135,
+    "Lisabon-Airport": 260,
+    "Curych-Airport": 145,
+    "Edinburg-Airport": 145
+  },
+  "Oslo-Airport": {
+    "Paris-Airport": 140,
+    "Copenhagen-Airport": 70,
+    "Frankfurt-Airport": 100,
+    "Amsterdam-Airport": 110,
+    "Milan-Airport": 150,
+    "Warsaw-Airport": 115,
+    "London-Airport": 125,
+    "Malmo-Airport": 58
+  },
+  "Moscow-Airport": {
+    "Paris-Airport": 235,
+    "Frankfurt-Airport": 190,
+    "Amsterdam-Airport": 220,
+    "Milan-Airport": 225,
+    "Warsaw-Airport": 135,
+    "London-Airport": 245,
+    "Vladivostok-Airport": 750
+  },
+  "Vilnius-Airport": {
+    "Paris-Airport": 160,
+    "Copenhagen-Airport": 90,
+    "Frankfurt-Airport": 125
+  },
+  "Dubai-Airport": {
+    "Paris-Airport": 410,
+    "Amsterdam-Airport": 395,
+    "Copenhagen-Airport": 385,
+    "Frankfurt-Airport": 125,
+    "Warsaw-Airport": 340,
+    "London-Airport": 420,
+    "Milan-Airport": 365
+  },
+  "Atheny-Airport": {
+    "Paris-Airport": 190,
+    "Amsterdam-Airport": 190,
+    "Copenhagen-Airport": 190,
+    "Rome-Airport": 120,
+    "Warsaw-Airport": 150,
+    "London-Airport": 225
+  },
+  "Wien-Airport": {
+    "Paris-Airport": 115,
+    "Amsterdam-Airport": 190,
+    "Copenhagen-Airport": 105,
+    "Milan-Airport": 90,
+    "Rome-Airport": 100,
+    "Warsaw-Airport": 85,
+    "London-Airport": 125
+  },
+  "Petrohrad-Airport": {
+    "Paris-Airport": 185,
+    "London-Airport": 190
+  },
+  "Bordeux-Airport": {
+    "Paris-Airport": 80,
+    "Zeneva-Airport": 75,
+    "Milan-Airport": 100,
+    "Rome-Airport": 120,
+    "Amsterdam-Airport": 100
+  },
+  "New_York-Airport": {
+    "Paris-Airport": 500,
+    "Amsterdam-Airport": 495,
+    "Copenhagen-Airport": 525,
+    "Frankfurt-Airport": 525,
+    "Milan-Airport": 569,
+    "Rome-Airport": 590,
+    "Warsaw-Airport": 585,
+    "London-Airport": 475,
+    "Dublin-Airport": 470
+  },
+  "Marakes-Airport": {
+    "Paris-Airport": 200,
+    "Amsterdam-Airport": 225
+  },
+  "Dakar-Airport": {
+    "Paris-Airport": 355,
+    "Milan-Airport": 340
+  },
+  "Johannesburg-Airport": {
+    "Paris-Airport": 645
+  },
+  "Addis_Abeba-Airport": {
+    "Paris-Airport": 425,
+    "Rome-Airport": 390
+  },
+  "Bombaj-Airport": {
+    "Paris-Airport": 535
+  },
+  "Montreal-Airport": {
+    "Paris-Airport": 460,
+    "Amsterdam-Airport": 465,
+    "Frankfurt-Airport": 480,
+    "London-Airport": 455,
+    "Seattle-Airport": 429
+  },
+  "Toronto-Airport": {
+    "Paris-Airport": 505,
+    "Amsterdam-Airport": 490,
+    "Frankfurt-Airport": 520
+  },
+  "Atlanta-Airport": {
+    "Paris-Airport": 600,
+    "Amsterdam-Airport": 580,
+    "Frankfurt-Airport": 625,
+    "London-Airport": 595
+  },
+  "Miami-Airport": {
+    "Paris-Airport": 630,
+    "Frankfurt-Airport": 660,
+    "London-Airport": 595
+  },
+  "Rio_de_Janero-Airport": {
+    "Paris-Airport": 695,
+    "Amsterdam-Airport": 715
+  },
+  "Mexico_city-Airport": {
+    "Paris-Airport": 755,
+    "Frankfurt-Airport": 745,
+    "Amsterdam-Airport": 715
+  },
+  "San_Jose-Airport": {
+    "Paris-Airport": 710,
+    "Amsterdam-Airport": 715
+  },
+  "Riga-Airport": {
+    "Amsterdam-Airport": 130,
+    "Copenhagen-Airport": 85,
+    "Frankfurt-Airport": 130,
+    "Milan-Airport": 160,
+    "Warsaw-Airport": 90
+  },
+  "Madrid-Airport": {
+    "Rome-Airport": 155,
+    "Warsaw-Airport": 235
+  },
+  "Reykjavik-Airport": {
+    "London-Airport": 195,
+    "Amsterdam-Airport": 200,
+    "Frankfurt-Airport": 220,
+    "Warsaw-Airport": 260
+  },
+  "Helsinki-Airport": {
+    "London-Airport": 170,
+    "Amsterdam-Airport": 140,
+    "Frankfurt-Airport": 145,
+    "Warsaw-Airport": 145,
+    "Edinburg-Airport": 160,
+    "Rome-Airport": 200,
+    "Milan-Airport": 180,
+    "Copenhagen-Airport": 140,
+    "Porto-Airport": 363
+  },
+  "Liverpool-Airport": {
+    "Amsterdam-Airport": 85,
+    "Copenhagen-Airport": 110,
+    "Warsaw-Airport": 170
+  },
+  "Boston-Airport": {
+    "Frankfurt-Airport": 520,
+    "London-Airport": 470
+  },
+  "Dallas-Airport": {
+    "London-Airport": 620,
+    "Barcelona-Airport": 973
+  },
+  "Cape_Town-Airport": {
+    "London-Airport": 705,
+    "Amsterdam-Airport": 675
+  },
+  "Barcelona-Airport": {
+    "Dallas-Airport": 973,
+    "Porto-Airport": 105
+  },
+  "Vladivostok-Airport": {
+    "Moscow-Airport": 750,
+    "Malmo-Airport": 891
+  },
+  "Seattle-Airport": {
+    "Montreal-Airport": 429,
+    "Malmo-Airport": 912
+  },
+  "Malmo-Airport": {
+    "Oslo-Airport": 58,
+    "Seattle-Airport": 912,
+    "Vladivostok-Airport": 891
+  },
+  "Porto-Airport": {
+    "Helsinki-Airport": 363,
+    "Barcelona-Airport": 105
+  },
+  "Tampere-Airport": {
+    "Dublin-Airport": 232
+  }
+}
