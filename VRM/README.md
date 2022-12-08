@@ -1,4 +1,4 @@
-### ABB RobotStudio Pick&Place, Visual Components Team Project
+## ABB RobotStudio Pick&Place, Visual Components Team Project
 
 **Programming for Robots and Manipulators - VRM**
 

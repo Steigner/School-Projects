@@ -1,4 +1,4 @@
-### Simple ANN Classifier, Adaptive ANN Modeling
+## Simple ANN Classifier, Adaptive ANN Modeling
 
 **Neural Networks and Evolution Method - VSC**
 

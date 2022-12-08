@@ -1,4 +1,4 @@
-### Simple Translation Path Planning via RRT + A*
+## Simple Translation Path Planning via RRT + A*
 
 **Artificial Intelligence Algorithms Course - VAI**
 
@@ -32,7 +32,7 @@ This repository contain very simple approach of appliacation and comparation A* 
 Repository contain 2 folders:
 
 * path_planning - this ros package integrate to your catkin workaspace
-* technical_report_and_presentation - folder contain technical report for this project and presentation about some ai problematics, both is in [[czech lang.]](https://en.wikipedia.org/wiki/Czech_language).
+* technical_report_and_presentation - folder contain technical report for this project and presentation about some ai problematics, both is in czech language.
 
 ### Note
 Algorithms wasn't programmed in the most elegantly way(try better heuristics, in A* for lists Open/Close use dictonary, etc ...). Main reason is attempt to avoid common solutions and get some +points.

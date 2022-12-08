@@ -1,4 +1,4 @@
-### Simple Inverse and Forward Kinematics 2DOF SCARA manipulator
+## Simple Inverse and Forward Kinematics 2DOF SCARA manipulator
 
 **Object-Oriented Programming Course - VOB**
 

@@ -3,8 +3,8 @@
 #include <cmath>
 #include <stdexcept>
 
-#include "matplotlibcpp.h"
-#include "Numcpp_light.hpp"
+#include "matplotlib_cpp.h"
+#include "nump_light_cpp.hpp"
 
 namespace plt = matplotlibcpp;
 
